@@ -1,0 +1,16 @@
+form div {
+    margin-bottom: 1em;
+}
+div.submit input {
+    margin-left: 165px;
+}
+label.field {
+    display: block;
+    float: left;
+    margin-right: 15px;
+    width: 150px;
+    text-align: right;
+}
+label.required {
+    font-weight: bold;
+}
